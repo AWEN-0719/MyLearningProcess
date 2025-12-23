@@ -11,5 +11,5 @@ int main(voide){
   printf("面積是 %.1lf * %.1lf = %.2lf \n", width, height, area); // 印出字串與變數
     
   return 0;
-
+// 回傳 0 給作業系統, 表示程式執行成功
 }
